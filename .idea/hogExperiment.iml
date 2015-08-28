@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CONSTANTS.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HOG.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HOG.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///opt/opencv-2.4.11/build" />
+          <root url="file:///opt/opencv-2.4.11/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/calib3d/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/contrib/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/core/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/features2d/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/flann/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/gpu/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/highgui/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/imgproc/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/legacy/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/ml/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/nonfree/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/objdetect/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/ocl/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/photo/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/stitching/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/superres/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/ts/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/video/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/videostab/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-redhat-linux/5.1.1/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///opt/opencv-2.4.11/build" />
+          <root url="file:///opt/opencv-2.4.11/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/calib3d/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/contrib/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/core/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/features2d/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/flann/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/gpu/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/highgui/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/imgproc/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/legacy/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/ml/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/nonfree/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/objdetect/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/ocl/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/photo/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/stitching/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/superres/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/ts/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/video/include" />
+          <root url="file:///opt/opencv-2.4.11/modules/videostab/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/gcc/x86_64-redhat-linux/5.1.1/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
